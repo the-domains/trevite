@@ -1,0 +1,28 @@
+name: trevite
+favicon: null
+layout_spectrum: 0.7231135359033942
+typography_spectrum: 0.5733031581621617
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5809217854402959
+  lightness: 0.09769287775270641
+  saturation: 0.4522536771837622
+  rhythmicContrast: 0.9139094864949584
+purpose: []
