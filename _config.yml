@@ -1,6 +1,6 @@
 name: TREVITE
 favicon: null
-layout_spectrum: 0.49821
+layout_spectrum: 0.75122
 typography_spectrum: 0.03542
 title: 'СТРЪКОВЕ, КЪЛНОВЕ, ЗДРАВОСЛОВНИ ХРАНИ, СУПЕРХРАНИ'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#bebeaa'
     - '#17a400'
   brandStrength: 0.5
-  lightness: 0.8125
+  lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
