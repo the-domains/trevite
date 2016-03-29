@@ -22,7 +22,7 @@ color:
     - '#bebeaa'
     - '#17a400'
   brandStrength: 0.5
-  lightness: 0.09769287775270641
-  saturation: 0.4522536771837622
+  lightness: 1
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
